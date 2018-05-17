@@ -1,0 +1,3 @@
+percent_word_present 0.3076945620796272
+percent_firstword_present 0.3076945620796272
+percent_lastword_present 0.1192063654880354
